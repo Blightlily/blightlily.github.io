@@ -1,4 +1,2 @@
-# ewad-code.github.io
-
-# ewad.github.io
+# blightshade.github.io 
 
